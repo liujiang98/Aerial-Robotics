@@ -7,7 +7,7 @@ code for Aerial Robotics
 
 # 2-D Quadrotor Control
 
-![2D.gif (778×591) ](https://raw.githubusercontent.com/heoll0/Aerial-Robotics/main/2-D Quadrotor Control/2D.gif)
+![2D.gif (778×591) ](https://github.com/heoll0/Aerial-Robotics/blob/main/2-D%20Quadrotor%20Control/2D.gif)
 
 ```matlab
 function [ u1, u2 ] = controller(~, state, des_state, params)
