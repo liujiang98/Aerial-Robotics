@@ -54,7 +54,7 @@ end
 
 # 3-D Quadrotor Control
 
-![3D](https://github.com/heoll0/Aerial-Robotics/blob/main/3-D%20Quadrotor%20Control/3D.gif)
+![3D](https://github.com/liujiang98/Aerial-Robotics/blob/main/3-D%20Quadrotor%20Control/3D.gif)
 
 
 
